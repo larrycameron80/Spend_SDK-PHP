@@ -1,0 +1,15 @@
+{
+    "name": "centratech/ctkwallet-sdk",
+    "description": "SDK to connect and interact the the CTK wallet api in PHP",
+    "type": "library",
+    "license": "GNU",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Ctk\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.1"
+    }
+}
